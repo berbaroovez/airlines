@@ -1,0 +1,5 @@
+- create switch statement
+- type check to put a percent with as above as well
+- improve css for header
+- deciede what happens with long input select --order the table
+- jest tests
