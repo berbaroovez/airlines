@@ -78,27 +78,3 @@ th:first-of-type {
 /* td:first-of-type {
   border-left: 1px solid blue;
 } */
-
-.footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-
-  background-color: #bbbbbb;
-  text-align: center;
-  padding-top: 10px;
-  padding-bottom: 10px;
-
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  border-radius: 16px 16px 0 0;
-}
-
-#airport {
-  position: relative;
-  top: 60px;
-}
-
-form {
-  padding-bottom: 50px;
-}
